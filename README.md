@@ -1,4 +1,4 @@
-# Ending
+# Ru Ending
 
 *This package was made for me, but if you find it useful, I'll be happy if you use it*  
 
