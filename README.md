@@ -28,16 +28,12 @@ The method returns a string representing the correct word form from `$words` bas
 ### Static way
 
 ```php
-use swuppio\ending\Ending;
-
 echo Ending::get(5, ['Полис', 'Полиса', 'Полисов']); // Полисов
 ```
 
 ### Object way
 
 ```php
-use swuppio\ending\Ending;
-
 $words = ['Полис', 'Полиса', 'Полисов'];
 
 $ending = new Ending($words);
